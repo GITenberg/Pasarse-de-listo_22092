@@ -17,6 +17,8 @@ creator:
     - http://es.wikipedia.org/wiki/Juan_Valera
     - http://en.wikipedia.org/wiki/Juan_Valera_y_Alcala_Galiano
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22092#Pasarse-de-listo
 gutenberg_issued: '2007-07-17'
 gutenberg_type: Text
 identifiers:
